@@ -6,7 +6,6 @@ int current = 0;
 int buttonVal;
 int note = 0;
 int counter = 0;
- 
 
 void setup()
 {
