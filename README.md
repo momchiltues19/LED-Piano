@@ -10,6 +10,7 @@ An arduino project that attempts to recreate a piano. There are going to be LEDs
 * [Arduino - Unity](https://www.alanzucconi.com/2015/10/07/how-to-integrate-arduino-with-unity/)
 * [Scheme](https://paulbleisch.com/2015/01/19/custom-arduino-membrane-keypad/)
 * [6 buttons](https://electronics.stackexchange.com/questions/101409/how-to-debouce-six-buttons-on-one-analog-pin-with-arduino), [5 buttons](http://forum.arduino.cc/index.php?topic=8558.0)
+* [Button help](http://www.instructables.com/id/How-to-access-5-buttons-through-1-Arduino-input/), [more](https://electronics.stackexchange.com/questions/99417/what-resistors-to-use-to-read-several-buttons-with-a-single-analog-pin), [VERY HELPFUL I HOPE](http://tronixstuff.com/2011/01/11/tutorial-using-analog-input-for-multiple-buttons/)
 
 # Parts 
 * [Keys](https://www.thomann.de/gb/moog_keys.html)
